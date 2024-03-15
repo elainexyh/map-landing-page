@@ -1,0 +1,51 @@
+body{
+	background-color:#FFF7FB;
+}
+
+.header-img{
+	background-image:url("../img/cacti.jpg");
+	height:100vh;
+	background-size: cover;
+	background position: center;
+	background-repeat: no-repeat;
+}
+
+.header-text{
+    text-align: center;
+    color: white;
+    padding-top: 40vh;
+    font-family:'Courier';
+    font-size:125px;
+}
+
+a{
+	color:black;
+}
+
+a:hover{
+	color:black;
+	font-family:'Courier';
+	text-decoration: underline;
+}
+
+h1{
+	padding:25px;
+}
+
+.container{
+	margin:20px;
+}
+
+p{
+	line-height: 5px
+}
+
+
+.container2{
+	display:inline-block;
+	width:100%;
+}
+
+img{
+	width:100%;
+}
